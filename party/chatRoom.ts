@@ -71,6 +71,7 @@ export default class ChatRoomServer implements Party.Server {
           botId: this.botId,
         }),
       });
+      console.log(this.botId);
     }
   }
 
