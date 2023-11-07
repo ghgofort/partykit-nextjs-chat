@@ -1,5 +1,6 @@
 This project is intended to be an event planner with chat & other features. This is a work in progress so check back for updates.
 
+## What is Used in Project
 This is a [PartyKit](https://partykit.io) project using [Next.js](https://nextjs.org/) bootstrapped with [`partykit-nextjs-chat-template`](https://github.com/partykit/partykit-nextjs-chat-template).
 
 There's a live hosted demo of this template at [https://partykit-nextjs-chat-template.vercel.app/](https://partykit-nextjs-chat-template.vercel.app/).
